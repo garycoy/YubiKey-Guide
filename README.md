@@ -9,6 +9,7 @@ Keys stored on YubiKey are [non-exportable](http://web.archive.org/web/202011251
 If you have a comment or suggestion, please open an [Issue](https://github.com/drduh/YubiKey-Guide/issues) on GitHub.
 
 My add: special notes/article for Mac OSX Here: https://evilmartians.com/chronicles/stick-with-security-yubikey-ssh-gnupg-macos
+Another add: For windows - using native (Windows installed openssh): https://github.com/benpye/wsl-ssh-pageant and https://fschoenberger.dev/supercharge-yubikey-windows/
 
 - [Purchase](#purchase)
 - [Prepare environment](#prepare-environment)
